@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-12T11:26:22 IST" name="Suite" finished-at="2024-12-12T11:26:32 IST" duration-ms="9427">
+    <groups>
+    </groups>
+    <test started-at="2024-12-12T11:26:22 IST" name="Test" finished-at="2024-12-12T11:26:32 IST" duration-ms="9427">
+      <class name="testcases.TC002_ProductSearch">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC002_ProductSearch@31e4bb20]" started-at="2024-12-12T11:26:22 IST" name="initialize" finished-at="2024-12-12T11:26:30 IST" duration-ms="7573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyTheProduct()[pri:0, instance:testcases.TC002_ProductSearch@31e4bb20]" started-at="2024-12-12T11:26:30 IST" name="verifyTheProduct" finished-at="2024-12-12T11:26:32 IST" duration-ms="1812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheProduct -->
+      </class> <!-- testcases.TC002_ProductSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
