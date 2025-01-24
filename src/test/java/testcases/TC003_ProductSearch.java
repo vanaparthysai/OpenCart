@@ -9,9 +9,9 @@ import pageObjects.Homepage;
 import pageObjects.ProductPage;
 import pageObjects.SearchResultsPage;
 
-public class TC002_ProductSearch extends BasePage {
+public class TC003_ProductSearch extends BasePage {
 
-    public TC002_ProductSearch() {
+    public TC003_ProductSearch() {
         super(null); // Pass null since driver is initialized in @BeforeClass
     }
 
@@ -25,7 +25,7 @@ public class TC002_ProductSearch extends BasePage {
         tearDown(); // Clean up resources after tests
     }*/
 
-    @Test
+    @Test(groups = {"Regession","Sanity"})
     public void verifyTheProduct() {
     	Homepage hp=new Homepage(driver);
     	hp.searchbox("samsung");

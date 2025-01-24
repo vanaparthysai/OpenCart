@@ -50,7 +50,7 @@ public class Homepage extends BasePage {
 			System.out.println("Exception occured while clicking 'Register' : "+e.getMessage());
 		}
 	}
-	public void Login() {
+	public void ClickLogin() {
 		try {
 			wait.until(ExpectedConditions.elementToBeClickable(lnkLogin)).click();
 		} catch (Exception e) {

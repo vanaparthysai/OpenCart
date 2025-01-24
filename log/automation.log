@@ -1,0 +1,31 @@
+00:51:11.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:51:11.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:51:11.642 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+00:51:11.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\santh\AppData\Local\Temp\testng-eclipse-1075109907\testng-customsuite.xml
+
+00:51:11.673 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+00:51:16.530 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@65b66b08: 64 ms
+00:51:16.531 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4726927c: 1 ms
+00:51:16.541 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ffa56fa: 9 ms
+00:51:16.551 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@50d951e7: 9 ms
+00:51:16.556 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@588307f7: 5 ms
+00:51:16.557 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7df76d99: 0 ms
+00:53:42.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse\OpenCart\testng.xml
+
+00:57:20.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Eclipse\OpenCart\testng.xml
+
+00:57:23.145 [main] INFO  testcases.TC001_AccountRegistrationTest - ***** Starting TC001 Account Registration Test))
+00:57:23.354 [main] INFO  testcases.TC001_AccountRegistrationTest - clicked on my Account Link
+00:57:23.993 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on Register Link
+00:57:23.995 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing customer details...
+00:57:24.917 [main] INFO  testcases.TC001_AccountRegistrationTest - validating expected message...
+00:57:28.123 [main] INFO  testcases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ***
+00:57:33.630 [main] INFO  testcases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+00:57:35.459 [main] INFO  testcases.TC002_LoginTest - **** Finished TC002_LoginTest ***
+00:57:39.396 [main] INFO  testcases.TC004_LoginDDT - **** Starting TC003_LoginDDTTest ****
+00:57:41.644 [main] INFO  testcases.TC004_LoginDDT - **** Finished Data Driven Test for Login ****
+00:57:41.655 [main] INFO  testcases.TC004_LoginDDT - **** Starting TC003_LoginDDTTest ****
+00:57:53.126 [main] INFO  testcases.TC004_LoginDDT - **** Finished Data Driven Test for Login ****
